@@ -22,6 +22,9 @@
 - https://github.com/just-too-it/medical-center - Реализация веб-интерфейса управления записями на прием к врачу. 
 Стек: React, Next, TypeScript, SCSS, Redux.
 
+- https://github.com/just-too-it/data-table/tree/master - Реализация SPA в соответствии с предложенным макетом. Таблица с данными пользователей и возможностью сортировки и поиска. Результат на GH Pages: https://just-too-it.github.io/data-table/
+Стек: React, JavaScript, SCSS, Redux Toolkit.
+
 - https://github.com/just-too-it/ListOfUsers - Список пользователей, переход на карточку пользователя, редактирование формы. 
 Стек: React, TypeScript, SCSS, Webpack.
 
