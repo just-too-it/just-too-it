@@ -30,7 +30,7 @@
 
 - https://github.com/just-too-it/data-table/tree/master  
 Реализация SPA в соответствии с предложенным макетом. Таблица с данными пользователей и возможностью сортировки и поиска.  
-**Стек:** React, JavaScript, SCSS, Redux Toolkit.
+**Стек:** React, JavaScript, SCSS, Redux Toolkit.  
 **Деплой:** https://just-too-it.github.io/data-table/  
 
 - https://github.com/just-too-it/ListOfUsers  
