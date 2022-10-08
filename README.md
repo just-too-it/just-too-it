@@ -24,6 +24,11 @@
 **Стек:** React, TypeScript, SCSS, CSS Modules, Redux Toolkit, Formik, Swiper. Бэка не было, поэтому реализация с моковыми данными, которые по ходу работы заменены моковым сервером axios-mock-adapter.  
 **Деплой:** https://hawking-school-react.vercel.app/
 
+- https://github.com/just-too-it/hawking-school-lesson-1  
+Адаптивная верстка страницы сайта Дымоход.Ру. Выполнена в рамках стажировки в Hawking School.  
+**Стек:** Pug, JavaScript, SCSS, Gulp.  
+**Деплой:** https://just-too-it.github.io/hawking-school-lesson-1/
+
 - https://github.com/just-too-it/medical-center  
 Реализация веб-интерфейса управления записями на прием к врачу.  
 **Стек:** React, Next, TypeScript, SCSS, Redux.
