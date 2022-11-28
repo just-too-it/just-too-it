@@ -24,6 +24,11 @@ SPA с выводом карточек с эндпоинта (Google Books API) 
 **Стек:** React, TypeScript, Redux Toolkit, SCSS, CSS Modules, React loader spinner.   
 **Деплой:** https://just-too-it.github.io/spa-alfa/  
 
+- https://github.com/just-too-it/crm-control-panels  
+Верстка макета панели CRM, получение данных с сервиса, поиск по адресам.  
+**Стек:** React, TypeScript, SCSS, CSS Modules, Formik.    
+**Деплой:** https://crm-control-panels.vercel.app/  
+
 - https://github.com/just-too-it/car-leasing-calculator  
 Кроссбраузерная адаптивная верстка калькулятора лизинга авто по макетам из Figma. Значения в полях выводятся по заданным формулам. По кнопке "Оформить заявку" формируется запрос, который отправляет все данные калькулятора на бэкенд.  
 **Стек:** React, TypeScript, SCSS, CSS Modules, Formik.  
