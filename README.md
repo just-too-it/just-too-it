@@ -23,8 +23,8 @@ SPA с выводом карточек с эндпоинта (Google Books API) 
 **Стек:** React, TypeScript, Redux Toolkit, SCSS, CSS Modules, React loader spinner.   
 **Деплой:** https://just-too-it.github.io/spa-alfa/
 
-- https://github.com/just-too-it/music-player
-Музыкальный плеер с управлением треками, громкостью.  
+- https://github.com/just-too-it/music-player  
+- Музыкальный плеер с управлением треками, громкостью.  
 **Стек:** React, TypeScript, SCSS.   
 **Деплой:** https://just-too-it.github.io/music-player/
 
