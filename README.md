@@ -18,7 +18,7 @@
 - REST API
 
 ### Некоторые проекты:
-- https://github.com/just-too-it/crypto-exchange
+- https://github.com/just-too-it/crypto-exchange  
 Виджет для обмена валюты.  
 **Стек:** React, TypeScript, Redux Toolkit, Axios.   
 **Деплой:** https://crypto-exchange-lime.vercel.app/
