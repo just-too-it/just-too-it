@@ -1,13 +1,15 @@
 ### Привет! 👋
 
 Я frontend-разработчик (React).  
-Опыт работы: больше 3х лет
+Опыт работы: больше 4х лет
 
 ### Навыки:
-- Frontend Development: React, JavaScript, TypeScript, NextJS, Redux Toolkit 
-- UI/UX Design: SCSS, CSS3, HTML5, Figma, Material UI, Ant Design 
-- Инструменты и технологии: Git, REST API, Jest, Agile, i18n 
-- Оптимизация: Кроссбраузерная верстка, производительность приложений 
+- Frontend: React, Next.js, TypeScript, JavaScript  
+- State Management: Redux Toolkit, MobX  
+- Стилизация: SCSS, CSS Modules, CSS-in-JS, MUI, Mantine  
+- Тестирование: Jest, React Testing Library  
+- Инструменты: Git, Webpack, Vite, REST API, i18n, Figma, Storybook  
+- Методологии: FSD, TurboRepo, Scrum  
 
 ### Некоторые проекты:
 - https://github.com/just-too-it/crypto-exchange  
