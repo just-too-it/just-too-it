@@ -5,12 +5,12 @@
 
 ## 🛠 Технологии
 
-**Frontend:** React, Next.js, TypeScript, JavaScript
-**State Management:** Redux Toolkit, MobX, TanStack Query, Zustand
-**Стилизация:** SCSS, CSS Modules, CSS-in-JS, MUI, Mantine, Ant Design
-**Тестирование:** Jest, React Testing Library
-**Инструменты:** Git, Webpack, Vite, REST API, i18n, Figma, Storybook
-**Архитектура:** FSD, TurboRepo, Scrum
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**State Management:** Redux Toolkit, MobX, TanStack Query, Zustand  
+**Стилизация:** SCSS, CSS Modules, CSS-in-JS, MUI, Mantine, Ant Design  
+**Тестирование:** Jest, React Testing Library  
+**Инструменты:** Git, Webpack, Vite, REST API, i18n, Figma, Storybook  
+**Архитектура:** FSD, TurboRepo, Scrum  
 
 ## 💻 Опыт работы
 
@@ -21,6 +21,7 @@
 - Рефакторинг и оптимизация существующей кодовой базы
 
 ### 🚀 Pet-проекты и тестовые задания
+
 *Здесь представлены пет-проекты и тестовые задания, демонстрирующие мой подход к разработке*
 
 - https://github.com/just-too-it/at-work 
@@ -51,5 +52,5 @@ SPA с выводом карточек с эндпоинта (Google Books API) 
 
 ## 📫 Контакты  
 - Telegram: @Natasha_D
-- Email: [just.too.it@gmail.com]
+- Email: just.too.it@gmail.com
 
