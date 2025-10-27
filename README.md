@@ -26,33 +26,42 @@
 
 *Здесь представлены пет-проекты и тестовые задания, демонстрирующие мой подход к разработке*
 
-- https://github.com/just-too-it/at-work
-Приложение для управления пользователями на основе React с функциями архивирования и редактирования. 
-Работа с состоянием, запросами, версткой по макетам на современном стеке. 
-**Стек:** React, TypeScript, Zustand, TanStack Query, React Hook Form + Zod.   
-**Деплой:** https://at-work-umber.vercel.app/
+#### At Work - Приложение для управления пользователями
 
-- https://github.com/just-too-it/crypto-exchange  
-Виджет для обмена валюты.  
-**Стек:** React, TypeScript, Redux Toolkit, Axios.   
-**Деплой:** https://crypto-exchange-lime.vercel.app/
+- **Описание:** Управление пользователями с функциями архивирования и редактирования
+- **Стек:** React, TypeScript, Zustand, TanStack Query, React Hook Form + Zod
+- **Демо:** https://at-work-umber.vercel.app/
+- **Код:** https://github.com/just-too-it/at-work
 
-- https://github.com/just-too-it/promo    
-Реализация адаптивной верстки и функциональности промо-страницы.  
-**Стек:** React, TypeScript, Redux Toolkit.     
-**Деплой:** https://promo-sooty.vercel.app/
-  
-- https://github.com/just-too-it/spa-alfa  
-SPA с выводом карточек с эндпоинта (Google Books API) и их фильтрацией.  
-**Стек:** React, TypeScript, Redux Toolkit, SCSS, CSS Modules, React loader spinner.   
-**Деплой:** https://just-too-it.github.io/spa-alfa/
+#### Crypto Exchange - Виджет для обмена валют
 
-- https://github.com/just-too-it/music-player  
-Музыкальный плеер с управлением треками, громкостью.  
-**Стек:** React, TypeScript, SCSS.   
-**Деплой:** https://just-too-it.github.io/music-player/
+- **Описание:** Виджет для конвертации криптовалют с актуальными курсами
+- **Стек:** React, TypeScript, Redux Toolkit, Axios
+- **Демо:** https://crypto-exchange-lime.vercel.app/
+- **Код:** https://github.com/just-too-it/crypto-exchange
+
+#### Promo Page - Промо-страница
+
+- **Описание:** Адаптивная промо-страница с современным дизайном
+- **Стек:** React, TypeScript, Redux Toolkit
+- **Демо:** https://promo-sooty.vercel.app/
+- **Код:** https://github.com/just-too-it/promo
+
+#### SPA Alfa - Книжный каталог
+
+- **Описание:** SPA для поиска и фильтрации книг через Google Books API
+- **Стек:** React, TypeScript, Redux Toolkit, SCSS, CSS Modules, React loader spinner
+- **Демо:** https://just-too-it.github.io/spa-alfa/
+- **Код:** https://github.com/just-too-it/spa-alfa
+
+#### Music Player - Аудиоплеер
+
+- **Описание:** Музыкальный плеер с базовыми функциями воспроизведения
+- **Стек:** React, TypeScript, SCSS
+- **Демо:** https://just-too-it.github.io/music-player/
+- **Код:** https://github.com/just-too-it/music-player
 
 ## 📫 Контакты  
-- Telegram: @Natasha_D
+- Telegram: [@Natasha_D](https://t.me/Natasha_D)
 - Email: just.too.it@gmail.com
 
